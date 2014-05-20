@@ -1,0 +1,1 @@
+jar cvfm RSMLValidator.jar MANIFEST.MF RSMLValidator.class rsml.xsd
