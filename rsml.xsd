@@ -16,14 +16,6 @@
               <xs:element name="software" type="xs:string" />
               <xs:element name="user" type="xs:string" />
               <xs:element name="file-key" type="xs:string" />
-              <!-- metadata.private -->
-              <xs:element name="private" minOccurs="0">
-                <xs:complexType>
-                  <xs:sequence>
-                    <xs:any processContents="skip" minOccurs="0" maxOccurs="unbounded" />
-                  </xs:sequence>
-                </xs:complexType>
-              </xs:element>
               <!-- metadata.property-definitions -->
               <xs:element name="property-definitions" minOccurs="0">
                 <xs:complexType>
