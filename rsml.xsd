@@ -175,10 +175,6 @@
     <xs:attributeGroup ref="labelid" />
     <xs:attribute name="accession" type="xs:string" use="optional" />
     
-     <!-- **************************** -->
-     <!--   "po:accession" fails !!!   -->
-     <!-- **************************** -->
-    
 </xs:complexType>
 
 
