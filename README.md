@@ -1,4 +1,4 @@
-###RSMLValidator
+### RSMLValidator
 
 Basic java application to validate rsml file agains the (included) rsml.xsd shema definition
 
@@ -8,6 +8,6 @@ Usage:
   
   then
   
-  java -jar RSMLValidator.jar <list of rsml files>
+  ```java -jar RSMLValidator.jar <list of rsml files>```
   
 
